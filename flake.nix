@@ -23,8 +23,8 @@
 
         # Libraries + headers
         buildInputs = with pkgs; [
-          libX11
-          libXft
+          libx11
+          libxft
         ];
       };
     };
